@@ -1,0 +1,19 @@
+{
+  "name": "useless",
+  "version": "1.0.0",
+  "description": "test npm publish",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/WilliamANadeeshani/npm_test_pkg_useless.git"
+  },
+  "author": "nwilliam",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/WilliamANadeeshani/npm_test_pkg_useless/issues"
+  },
+  "homepage": "https://github.com/WilliamANadeeshani/npm_test_pkg_useless#readme"
+}
